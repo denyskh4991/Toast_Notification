@@ -24,10 +24,10 @@ This project implements a responsive toast notification system using HTML, CSS, 
 <h3>HTML Structure</h3>
 The HTML file includes a main container where toast notifications are dynamically added. It also features buttons for triggering each type of toast notification.
 <h3>CSS Styling</h3>
-<strong>Design and Animation</strong> 
+<h4>Design and Animation</h4> 
 The CSS provides a modern look with a sliding animation. Toasts are consistently styled, with appropriate colors and box-shadow effects to distinguish between message types.
 
-<strong>Responsive Layout</strong> 
+<h4>Responsive Layout</h4> 
 The toast container is positioned at the bottom-right corner of the screen, making notifications noticeable but unobtrusive.
 
 <h3>JavaScript Functionality</h3>
