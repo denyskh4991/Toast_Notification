@@ -77,3 +77,11 @@ body {
         width: 0;
     }
 }
+
+.toast.error::after {
+    background: red;
+}
+
+.toast.invalid::after {
+    background: orange;
+}
