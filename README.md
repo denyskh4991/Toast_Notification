@@ -22,7 +22,7 @@ This project implements a responsive toast notification system using HTML, CSS, 
   Each toast notification automatically disappears after 6 seconds, ensuring the messages do not obstruct the user experience for too long.
 <h2>Technical Overview</h2>
 <h3>HTML Structure</h3>
-The HTML file includes a main container (<code><div id="toastBox"></div></code>) where toast notifications are dynamically added. It also features buttons for triggering each type of toast notification.
+The HTML file includes a main container where toast notifications are dynamically added. It also features buttons for triggering each type of toast notification.
 <h3>CSS Styling</h3>
 <strong>Design and Animation</strong> 
   The CSS provides a modern look with a sliding animation. Toasts are consistently styled, with appropriate colors and box-shadow effects to distinguish between message types.
